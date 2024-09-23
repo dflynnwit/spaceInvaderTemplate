@@ -1,6 +1,6 @@
 
 # Space Invaders 
-*These notes are a lightly edited version of the original [ Edinburgh napier University lab3](https://dooglz.github.io/set09121/spaceinvaders1.html) )*
+*These notes are a lightly edited version of the original [ Edinburgh napier University lab3](https://dooglz.github.io/set09121/spaceinvaders1.html) *
 
 This lab is design to revise some Object Orientation(OO) in C++, Working with C++ header files, and a small amount of memory and resource management.
 
