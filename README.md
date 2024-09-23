@@ -4,7 +4,7 @@
 
 This lab is design to revise some Object Orientation(OO) in C++, Working with C++ header files, and a small amount of memory and resource management.
 
-## resources for this assignment/lab:
+## Resources for this assignment/lab:
 Instead of the resources(assets) used in this template, use your own instead e.g.
 [Link to a free sprite sheet](https://www.spriters-resource.com/arcade/spaceinv/sheet/115520/)
 
